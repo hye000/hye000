@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=b5dae3&height=240&text=hyeyoung's%20github&animation=twinkling&fontColor=000000&fontSize=50" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=b5dae3&height=240&text=jeong%20hyeyoung&animation=twinkling&fontColor=000000&fontSize=50" />
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
